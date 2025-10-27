@@ -20,7 +20,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### ⚙️ Frameworks & Tools  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -32,7 +31,7 @@
 A personalized diet recommendation system built with Machine Learning.  
 It provides meal suggestions based on user health parameters like **BMI**, **age**, and **sugar levels**.  
 
-📂 [View Project Repository](#) *(Add your GitHub project link here)*  
+📂 [View Project Repository](#) https://github.com/Nithin201342/SmartDiet_Planner 
 
 ---
 
