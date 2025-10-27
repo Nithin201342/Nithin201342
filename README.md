@@ -35,14 +35,6 @@ It provides meal suggestions based on user health parameters like **BMI**, **age
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NithinMathewThomas&show_icons=true&theme=tokyonight" alt="Nithin's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinMathewThomas&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
 
 ### 🌐 Connect With Me  
 <p align="left">
