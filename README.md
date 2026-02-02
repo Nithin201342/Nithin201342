@@ -39,9 +39,9 @@ A **machine learning-powered** web application that generates personalized diet 
 🔗 [View Repository](https://github.com/Nithin201342/SmartDiet_Planner)
 
 #### 🎵 Smart Audio Validator  
-An **AI-based audio quality assessment system** that analyzes uploaded music files using Digital Signal Processing and ML.  
+Built an AI-driven audio quality assessment system using DSP feature extraction and machine learning to analyze recordings and generate automated improvement suggestions.  
 🔹 Extracts features like MFCCs and spectral contrast to evaluate clarity and noise  
-🔗 *(Add repo link here if public)*
+🔗 [View Repository](https://github.com/Nithin201342/smart_audio_validator)
 
 ---
 
