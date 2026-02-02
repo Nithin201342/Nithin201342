@@ -1,13 +1,14 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey there, I'm Nithin Mathew Thomas</h1>
-<h3 align="center">💻 MCA Student at Muthoot Institute of Technology and Science</h3>
+<h1 align="center">👋 Hi, I'm Nithin Mathew Thomas</h1>
+<h3 align="center">💻 MCA Student | Machine Learning & Full-Stack Developer</h3>
 
 ---
 
 ### 🧠 About Me  
-🎓 I'm an aspiring developer passionate about **Python**, **Machine Learning**, and **Frontend Development**.  
-🚀 Currently working on **Smart Diet Planner**, a personalized meal recommendation app using ML.  
-🌱 Always curious to learn, create, and explore new technologies!  
+🎓 MCA student at **Muthoot Institute of Technology and Science**  
+🤖 Passionate about **Machine Learning, AI-driven applications, and Full-Stack Development**  
+🚀 Currently building **intelligent systems** that solve real-world problems  
+🌱 Continuously learning and exploring new technologies  
 
 ---
 
@@ -16,25 +17,33 @@
 #### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### ⚙️ Frameworks & Tools  
+#### ⚙️ Frameworks, Libraries & Tools  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🧩 Featured Project  
-#### 🥗 **Smart Diet Planner**
-A personalized diet recommendation system built with Machine Learning.  
-It provides meal suggestions based on user health parameters like **BMI**, **age**, and **sugar levels**.  
+### 🧩 Featured Projects  
 
-📂 [View Project Repository](#) https://github.com/Nithin201342/SmartDiet_Planner 
+#### 🥗 Smart Diet Planner  
+A **machine learning-powered** web application that generates personalized diet and exercise plans based on user health data like BMI, age, and medical conditions.  
+🔹 Built using **Python, Flask, ML models, and MongoDB**  
+🔗 [View Repository](https://github.com/Nithin201342/SmartDiet_Planner)
+
+#### 🎵 Smart Audio Validator  
+An **AI-based audio quality assessment system** that analyzes uploaded music files using Digital Signal Processing and ML.  
+🔹 Extracts features like MFCCs and spectral contrast to evaluate clarity and noise  
+🔗 *(Add repo link here if public)*
 
 ---
-
 
 ### 🌐 Connect With Me  
 <p align="left">
@@ -45,5 +54,4 @@ It provides meal suggestions based on user health parameters like **BMI**, **age
 
 ---
 
-⭐ *"Code. Learn. Improve. Repeat."*
-
+⭐ *"Building intelligent solutions, one project at a time."*
